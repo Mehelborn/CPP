@@ -1,0 +1,2 @@
+C:\Users\John Smith\Documents\GitHub\CPP\Debug\CPP.exe
+C:\Users\John Smith\Documents\GitHub\CPP\Debug\CPP.pdb
