@@ -1,1 +1,14 @@
-﻿  CPP.vcxproj -> C:\Users\John Smith\Documents\GitHub\CPP\Debug\CPP.exe
+﻿  Examples.cpp
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(28,15): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(28,15): message : consider using '%hd' in the format string
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(64,15): warning C4477: 'scanf' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(64,15): message : consider using '%hd' in the format string
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(66,15): warning C4477: 'scanf' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(66,15): message : consider using '%hd' in the format string
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(68,15): warning C4477: 'scanf' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(68,15): message : consider using '%hd' in the format string
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(70,15): warning C4477: 'scanf' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(70,15): message : consider using '%hd' in the format string
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(72,15): warning C4477: 'scanf' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+C:\Users\John Smith\Documents\GitHub\CPP\Examples.cpp(72,15): message : consider using '%hd' in the format string
+  CPP.vcxproj -> C:\Users\John Smith\Documents\GitHub\CPP\Debug\CPP.exe
